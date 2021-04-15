@@ -15,16 +15,17 @@ To do this, I will look at data from past successful and unsuccessful Kickstarte
 
 - Launching a campaign in May, June, and July would be best. 
 
-- The $10,000 proposed budget (more than double the average successful campaign) puts her a higher risk of failing. Something near $5,000 would be preferred. 
+- The $10,000 proposed budget (more than double the average successful campaign) puts her at a higher risk of failing. 
 
 
 **Visualizations**
+
 ![play outcomes based on launch date by](https://user-images.githubusercontent.com/36451701/114781633-ecbccd80-9d46-11eb-8e15-ce6af5439172.png)
 
-We can see that theater follows the overall trend: there is a spike of successful campaigns that began in June, but that tapers off by the end of the year.
+We can see that theater follows the overall trend: there is a spike of successful campaigns that began in May, but that tapers off by the end of the year.
 
 
 **Future Projects**
 Louise mentioned earlier that she's also interested in Great Britain's theater market, especially musicals
 
-We can see that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than £4,000.
+
