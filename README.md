@@ -26,6 +26,7 @@ We can see that theater follows the overall trend: there is a spike of successfu
 
 
 **Future Projects**
-Louise mentioned earlier that she's also interested in Great Britain's theater market, especially musicals
+
+Louise mentioned earlier that she's also interested in Great Britain's theater market, especially musicals.
 
 
